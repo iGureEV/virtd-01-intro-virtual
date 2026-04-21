@@ -24,6 +24,9 @@
 
 ## Решение 1
 
+Конфигурация ВМ: [тераформ](./meta/01_intro_create_vm_toolbox.terraform.txt) и [yandex cli](./meta/01_intro_create_vm_toolbox.yccli.txt).  
+Создание ВМ - [1](./imgs/01_Создание_ВМ.PNG) и [2](./imgs/02_Создание_ВМ.PNG), созданная ВМ - [1](./imgs/03_Создание_ВМ.PNG).  
+
 ---
 
 ## Задача 2
